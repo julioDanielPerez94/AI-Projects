@@ -1,0 +1,15 @@
+DNI,Nombre_A,Apellidos_A,Ciudad_A,Edad_A,Sexo_A,Aficiones_A,DNI_Amigos_A,Apellidos_B,Nombre_B,Ciudad_B,Fecha_nacimiento_B,Sexo_B,Estatura_B,DNI_Amigos_B,Aficiones_B
+1111,María,Méndez García,La Laguna,21.0,M,"['pintura', 'senderismo', 'natación']","[2222, 4444]",Méndez García,María,La Laguna,1999-03-23,M,168.0,"[2222, 4444]","['pintura', 'senderismo', 'natación']"
+2222,Carmen,Martínez Palacios,Tacoronte,22.0,M,"['pintura', 'tenis', 'natación']","[1111, 9999]",Martínez Palacios,Carmen,Tacoronte,1997-01-15,M,172.0,"[1111, 9999]","['pintura', 'tenis', 'natación']"
+3333,Carlos,Sánchez Díaz,Santa Cruz,18.0,H,"['fútbol', 'natación', 'running']","[2222, 5555, 1111]",Sánchez Díaz,Carlos,Santa Cruz,2002-04-19,H,184.0,"[2222, 5555, 1111, 4444]","['fútbol', 'natación', 'running', 'lectura']"
+4444,Antonio,Pérez Carrillo,Santa Cruz,25.0,H,"['ciclismo', 'running']","[3333, 5555, 9999]",Pérez Carrillo,Antonio,Santa Cruz,1995-04-08,H,193.0,"[3333, 5555, 9999, 3030]","['ciclismo', 'running']"
+5555,Pedro,Arzola Brito,La Laguna/Santa Cruz,23.0,H,"['música', 'lectura', 'running']","[2222, 4444, 1111]",Arzola Brito,Pedro,La Laguna/Santa Cruz,1997-05-30,H,175.0,"[2222, 4444, 1111]","['música', 'lectura']"
+6666,Pilar,Dorta Gil,El Sauzal,27.0,M,"['lectura', 'natación', 'tenis']","[7777, 8888]",Dorta Gil,Pilar,El Sauzal,1900-01-01,M,0.0,N/D,N/D
+7777,Luis,Mejías Rodríguez,Santa Cruz,26.0,H,"['ciclismo', 'natación', 'running']",[6666],Mejías Rodríguez,Luis,Santa Cruz,1900-01-01,H,0.0,N/D,N/D
+8888,Teresa,Vicario Díaz,Tacoronte,23.0,M,"['lectura', 'running']","[1111, 4444, 6666]",Vicario Díaz,Teresa,Tacoronte,1900-01-01,M,0.0,N/D,N/D
+9999,Rosa,Cutillas Caro,Santa Cruz,17.0,M,"['cine', 'teatro', 'lectura', 'patinaje']","[1111, 3333, 2222]",Cutillas Caro,Rosa,Santa Cruz,2003-09-18,M,180.0,"[1111, 3333, 2222, 2020]","['lectura', 'cine', 'teatro', 'patinaje', 'ciclismo']"
+1010,David,Méndez Prieto,Santa Úrsula,29.0,H,"['cine', 'lectura', 'bricolaje']","[6666, 1020]",Méndez Prieto,David,Santa Úrsula,1900-01-01,H,0.0,N/D,N/D
+1020,Milagros,Perdomo Gómez,La Laguna,25.0,M,"['teatro', 'lectura']","[7777, 2222, 1111]",Perdomo Gómez,Milagros,La Laguna,1900-01-01,M,0.0,N/D,N/D
+2020,Alicia,Pérez Gutiérrez,Tacoronte,25.0,M,N/D,N/D,Pérez Gutiérrez,Alicia,Tacoronte,1996-10-11,M,174.0,"[2222, 3333, 9999, 4444]","['pintura', 'running']"
+3030,Adolfo,Hernández Pintos,La Laguna,27.0,H,N/D,N/D,Hernández Pintos,Adolfo,La Laguna,1994-09-20,H,182.0,"[4444, 1111]","['tenis', 'senderismo', 'fútbol']"
+4040,Candelaria,Bermúdez Aguilar,El Sauzal,17.0,M,N/D,N/D,Bermúdez Aguilar,Candelaria,El Sauzal,2004-12-02,M,165.0,N/D,"['senderismo', 'teatro', 'lectura']"
